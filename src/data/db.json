@@ -1,0 +1,59 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "ONG Animais",
+      "email": "ani@mal.com",
+      "senha": "auau123"
+    }
+  ],
+  "animal": [
+    {
+      "nome": "Suzy",
+      "raca": "Poodle",
+      "categoria": "Cachorro",
+      "vacina": "Sim",
+      "imagemUrl": "https://images.onlinepets.com/uploads/2021/02/Poedel.jpg?auto=format",
+      "id": "275a"
+    },
+    {
+      "id": "869a",
+      "nome": "Fúria",
+      "raca": "Mau Egípsio",
+      "categoria": "Gato",
+      "vacina": "Sim",
+      "imagemUrl": "https://i0.wp.com/petcaramelo.com/wp-content/uploads/2021/03/mau-egipcio_preto.jpg?resize=420%2C248&ssl=1"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Cachorro"
+    },
+    {
+      "id": "2",
+      "nome": "Gato"
+    },
+    {
+      "id": "3",
+      "nome": "Cavalo"
+    },
+    {
+      "id": "4",
+      "nome": "Pássaro"
+    },
+    {
+      "id": "0110"
+    }
+  ],
+  "vacina": [
+    {
+      "id": "1",
+      "nome": "Sim"
+    },
+    {
+      "id": "2",
+      "nome": "Não"
+    }
+  ]
+}
